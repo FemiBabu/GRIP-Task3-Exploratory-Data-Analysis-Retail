@@ -1,4 +1,4 @@
-# GRIP-Task3-Exploratory-Data-Analysis1-Retail
+# GRIP-Task3-Exploratory-Data-Analysis-Retail
 ## Performing EDA on Sample Superstore
 
 This is Simple Python Code in which we perform Exploratory Data Analysis On Retail data set called Sample Superstore.
